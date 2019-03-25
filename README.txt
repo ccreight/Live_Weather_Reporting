@@ -1,4 +1,5 @@
-A live weather site that pulls from the Google API and OpenWeatherMap API to allow input of city names or latitude and longitude to get information on temperature, humidity, etc.
+A live weather site that pulls from the Google API and OpenWeatherMap API to allow input of city names or latitude and longitude
+to get information on temperature, humidity, etc.
 
 --------------------------[clarification / instructions] ---------------------------
 
